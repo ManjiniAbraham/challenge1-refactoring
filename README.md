@@ -18,11 +18,12 @@ NA
 
 ## Usage
 
-![Screenshot of the live page](assets\images\Horiseon.png)
+![Screenshot of the live page](assets/images/Horiseon.png)
 
 ## Credits
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
+
 https://www.w3schools.com/html/
 
 
